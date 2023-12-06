@@ -26,6 +26,32 @@ In this project, I worked in a team to create a small research project. First, w
 
 
 
+# Evidence Analysis on Ashwagandha and Cortisol Levels 
+
+::: columns
+::: {.column width="15%"}
+
+[View Project](Evidence Analysis on Ashwagandha and Cortisol Levels.pdf)
+
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="80%"}
+
+In one of my classes, about dietary supplements and functional foods, we conducted our own literature review about a certain supplement and posed our own conclusions on the efficacy of that supplement on treating a certain condition. I chose to research ashwagandha and stress since there have been a lot of supplement companies selling ashwagandha for stress and I wanted to know if there was any research to support this. Through this project, I further increased my ability and skills to research a certain topic and use that evidence to make an unbiased conclusion. This will be helpful in the future working as a dietitian as I am sure there will be a lot of questions from clients asking about certain supplements. Being able to dive into the research is crucial to see if there is actually any benefit to taking a certain supplement and providing this information without any bias is also important.
+
+:::
+:::
+
+
+
+
+
+
 # Pregnancy Project
 
 ::: columns
