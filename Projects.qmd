@@ -1,0 +1,107 @@
+---
+title: "Projects"
+---
+
+
+# Association Between Stress and College Students' Appetites
+
+::: columns
+::: {.column width="15%"}
+
+[View Project](Association Between Stress and College Students' Appetites.pdf)
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="80%"}
+
+In this project, I worked in a team to create a small research project. First, we found a gap in the literature about a certain topic. Then we researched relevant survey tools to help us assess this gap and created our own survey using Qualtrics. We then distributed this survey to instructors through email to send to their students. After we collected a reasonable sample size, we used SPSS to analyze the data. In the analysis, I used a linear regression model with various covariates. I found a positive association between stress and appetite in college students. In other words, as college student’s stress levels increased, there was an association with an increase in college student’s appetites. This was the first research project that I had conducted, and I learned how to develop and organize a research project. This is relevant to the nutrition field as being able to understand research and research methodology is crucial to implement evidence-based practice. 
+
+:::
+:::
+
+
+
+
+
+# Pregnancy Project
+
+::: columns
+::: {.column width="15%"}
+
+[View Project](Pregnancy Project.pdf)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="80%"}
+
+In a class on nutrition throughout the lifecycle, one of our projects was to conduct a 24-hour dietary recall on a pregnant woman and identify any potential nutrient deficiencies based on the recommended dietary intakes. After conducting the dietary recall, we entered all of the food eaten by that person into a nutrition database to calculate macro and micronutrient intake. We then wrote a report on these findings. In this experience, I learned how to conduct a 24-hour dietary recall and learned how to identify any nutrient deficiencies through the use of a nutrition database. These are very important skills to know as dietitians where we will likely be conducting many 24-hour dietary recalls or just gathering general dietary intake. Knowing how to gather the right information is crucial in order to make appropriate recommendations. This is especially important in pregnant women where inadequate nutrient intake may be common.
+
+:::
+:::
+
+
+
+# Test Assignment 2
+
+::: columns
+::: {.column width="15%"}
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="80%"}
+
+:::
+:::
+
+
+# Test Assignment 3
+::: columns
+::: {.column width="15%"}
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="80%"}
+
+:::
+:::
+
+
+
+
+
+
+# Test Assignment 3
+::: columns
+::: {.column width="15%"}
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="80%"}
+
+:::
+:::
+
+
+
+
+
+
