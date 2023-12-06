@@ -26,12 +26,12 @@ In this project, I worked in a team to create a small research project. First, w
 
 
 
-# Evidence Analysis on Ashwagandha and Cortisol Levels 
+# Evidence Analysis on Ashwagandha's Effects on Stress, Depression, and Anxiety 
 
 ::: columns
 ::: {.column width="15%"}
 
-[View Project](Evidence Analysis on Ashwagandha and Cortisol Levels.pdf)
+[View Project](Evidence Analysis on Ashwagandha's Effects on Stress, Depression, and Anxiety.pdf)
 
 
 :::
@@ -74,10 +74,12 @@ In a class on nutrition throughout the lifecycle, one of our projects was to con
 
 
 
-# Test Assignment 2
+# Evidence Analysis on Sucralose, Blood Sugar, and Insulin Levels 
 
 ::: columns
 ::: {.column width="15%"}
+
+[View Project](Evidence Analysis on Sucralose, Blood Sugar, and Insulin Levels.pdf)
 
 :::
 
@@ -87,13 +89,17 @@ In a class on nutrition throughout the lifecycle, one of our projects was to con
 
 ::: {.column width="80%"}
 
+In a class on Advanced Human Nutrition, I worked in a team to write a report on a controversial topic. My group chose to research how an artificial sweetener like sucralose affects blood sugar levels and insulin levels. This is a very important topic in the nutrition field as diabetes is very prevalent and identifying if artificial sweeteners can be a safe replacement for sugar is important. In this project, I further improved my research and analysis skills by getting more experience researching a certain controversial topic and forming my own conclusions based on the evidence available. This is a very important skill because research is the basis of dietary recommendations and being able to conduct your own research on a certain topic, especially a controversial topic, is important to continue to implement research-based practice. We also worked in groups on this project, which gave me more experience working in teams. 
+
 :::
 :::
 
 
-# Test Assignment 3
+# Presentation on the Efficacy of probiotics for the treatment of IBS
 ::: columns
 ::: {.column width="15%"}
+
+[View Project](Presentation on the Efficacy of probiotics for the treatment of IBS.pdf)
 
 :::
 
@@ -102,6 +108,8 @@ In a class on nutrition throughout the lifecycle, one of our projects was to con
 :::
 
 ::: {.column width="80%"}
+
+-	In one of my graduate level classes on advanced topics in macro and micronutrients, we researched the efficacy of a certain treatment for a certain disease/condition. I chose to do my project on the impact probiotic supplementation on irritable bowel syndrome. This is a very important topic as more and more companies are starting to sell probiotics and lots of non-science-based articles are promoting probiotic supplementation for irritable bowel syndrome. Through this project, I learned how to research a certain topic and present this information to an audience. I learned that there is some evidence supporting probiotic use for irritable bowel syndrome, however, the evidence is low-quality and more research in this area is still needed. Being able to identify effective dietary interventions for a certain disease/condition by analyzing the current research on a topic is crucial for dietitians to be able to recommend effective dietary interventions. 
 
 :::
 :::
