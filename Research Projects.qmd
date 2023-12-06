@@ -1,0 +1,76 @@
+---
+title: "Research Projects"
+---
+
+
+
+
+# Qualitative Study on the Impact of Childhood Experiences on Student’s Eating Habits
+
+::: columns
+::: {.column width="15%"}
+
+[View Project](Qualitative Study on the Impact of Childhood Experiences on Student’s Eating Habits.pdf)
+
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="80%"}
+
+In this project, we worked in teams to develop a research project, develop a qualitative research questionnaire, conduct qualitative interviews with participants, and analyze the data. Our group chose to do our project on the impact of childhood experiences on students’ eating habits. In this project, we conducted a literature review on this topic to identify any gaps in the literature. Then, we created our own qualitative interview questions. We then had to find and recruit participants for the study and conducted our own interviews. Lastly, we analyzed the transcripts from all of the participants and identified any themes that were present. This was the very first time that I had worked on a qualitative research project. Most of my experience has been in quantitative measurements and being able to get experience in a qualitative approach helped me better understand how this type of research is conducted. This is an important topic in the nutrition field as being able to understand both quantitative and qualitative topics is crucial. 
+
+:::
+:::
+
+
+
+
+# Statewide Basic Needs and Student Success
+::: columns
+::: {.column width="15%"}
+
+[View Project](https://chicocalfresh.github.io/BNS3_Statewide_Summary/)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="80%"}
+
+One of the projects that I have worked on extensively with the Center for Healthy Communities is the Basic Needs and Student Success Survey. This project involves surveying college students in California on a variety of factors such as the impact of basic needs resources, eating habits, physical activity patterns and mental health. We have recruited over 2000 student participants for the statewide study and have summarized all of the results on a website using GitHub and R studio. This was a very large project involving the effort of multiple people in developing the survey, collecting the data from 12 college campuses, cleaning all the data, and analyzing all of the data. I learned how to work in a large team and how to display graphs and tables into a readable format for the general audience. These are all important skills as being able to work in large teams is crucial in the health care field and being able to provide and explain complex information in simple terms is important to ensure that patients understand what you are talking about.
+
+:::
+:::
+
+
+
+# Association Between Stress and College Students' Appetites
+
+::: columns
+::: {.column width="15%"}
+
+[View Project](Association Between Stress and College Students' Appetites.pdf)
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="80%"}
+
+In this project, I worked in a team to create a small research project. First, we found a gap in the literature about a certain topic. Then we researched relevant survey tools to help us assess this gap and created our own survey using Qualtrics. We then distributed this survey to instructors through email to send to their students. After we collected a reasonable sample size, we used SPSS to analyze the data. In the analysis, I used a linear regression model with various covariates. I found a positive association between stress and appetite in college students. In other words, as college student’s stress levels increased, there was an association with an increase in college student’s appetites. This was the first research project that I had conducted, and I learned how to develop and organize a research project. This is relevant to the nutrition field as being able to understand research and research methodology is crucial to implement evidence-based practice. 
+
+:::
+:::
+
+
+
+
+
+

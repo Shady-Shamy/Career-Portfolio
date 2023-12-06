@@ -2,25 +2,20 @@
 title: "About Me"
 ---
 
-
 ::: columns
 ::: {.column width="40%"}
-
 ![](Picture.jpg)
 :::
 
-::: {.column width="10%"}
-
+::: {.column width="5%"}
 :::
 
-::: {.column width="50%"}
+::: {.column width="55%"}
+**Shadyshamy80\@gmail.com \| (760)--718--0963**
 
+Hello, my name is Shady Shamy and I will be graduating with my Master's in Nutritional Science from Chico State in May 2024. I completed my Bachelor's in Biological Sciences from UC Irvine where I found nutrition's holistic approach to health care to be quite compelling. I'm interested in pursuing a career as a clinical dietitian and as a researcher where my research interests include public health and diet-related research. I plan on applying to dietetic internships to become a registered dietitian and to work as a clinical dietitian at a hospital while pursuing research on the side. For fun, I look to go to the gym, play basketball and spend time with friends and family.
 
-Shadyshamy80@gmail.com | (760) – 718 – 0963
-
-
-Hello, my name is Shady Shamy and I will be graduating with my Master’s in Nutritional Science from Chico State in May 2024. I completed my Bachelor’s in Biological Sciences from UC Irvine where I found nutrition’s holistic approach to health care to be quite compelling. I’m interested in pursuing a career as a clinical dietitian and as a researcher where my research interests include public health and diet-related research. I plan on applying to dietetic internships to become a registered dietitian and to work as a clinical dietitian at a hospital while pursuing research on the side. For fun, I look to go to the gym, play basketball and spend time with friends and family. 
-
+I believe that being dependable and communicative is crucial to having a functional team, and being caring and compassionate is essential to giving patients the proper care.
 :::
 :::
 

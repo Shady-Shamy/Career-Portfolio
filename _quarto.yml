@@ -3,16 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "Career_Portfolio"
+  title: "Shady Shamy"
+  page-footer:
+    center: "This website was built using Quarto and GitHub. All files and statements in this portfolio belong to Shady Shamy and are used to demonstrate work experience and relevant skills. Please do not copy without permission."  
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - href: about.qmd
         text: About Me
+      - href: Research Posters.qmd
+        text: Research Posters
+      - href: Research Projects.qmd
+        text: Research Projects        
       - href: Projects.qmd
-        text: Projects
-      
+        text: Nutrition Projects
+      - href: Resume.qmd
+        text: Resume      
 
 format:
   html:
