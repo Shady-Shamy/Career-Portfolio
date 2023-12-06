@@ -57,7 +57,7 @@ In a class on nutrition throughout the lifecycle, one of our projects was to con
 ::: columns
 ::: {.column width="15%"}
 
-[View Project](Evidence Analysis on Sucralose, Blood Sugar, and Insulin Levels.pdf)
+[View Project](Evidence Analysis on Sucralose, Blood Sugar, and Insulin Levels .pdf)
 
 :::
 
