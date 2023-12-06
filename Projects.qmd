@@ -109,7 +109,7 @@ In a class on Advanced Human Nutrition, I worked in a team to write a report on 
 
 ::: {.column width="80%"}
 
--	In one of my graduate level classes on advanced topics in macro and micronutrients, we researched the efficacy of a certain treatment for a certain disease/condition. I chose to do my project on the impact probiotic supplementation on irritable bowel syndrome. This is a very important topic as more and more companies are starting to sell probiotics and lots of non-science-based articles are promoting probiotic supplementation for irritable bowel syndrome. Through this project, I learned how to research a certain topic and present this information to an audience. I learned that there is some evidence supporting probiotic use for irritable bowel syndrome, however, the evidence is low-quality and more research in this area is still needed. Being able to identify effective dietary interventions for a certain disease/condition by analyzing the current research on a topic is crucial for dietitians to be able to recommend effective dietary interventions. 
+In one of my graduate level classes on advanced topics in macro and micronutrients, we researched the efficacy of a certain treatment for a certain disease/condition. I chose to do my project on the impact probiotic supplementation on irritable bowel syndrome. This is a very important topic as more and more companies are starting to sell probiotics and lots of non-science-based articles are promoting probiotic supplementation for irritable bowel syndrome. Through this project, I learned how to research a certain topic and present this information to an audience. I learned that there is some evidence supporting probiotic use for irritable bowel syndrome, however, the evidence is low-quality and more research in this area is still needed. Being able to identify effective dietary interventions for a certain disease/condition by analyzing the current research on a topic is crucial for dietitians to be able to recommend effective dietary interventions. 
 
 :::
 :::
@@ -118,10 +118,13 @@ In a class on Advanced Human Nutrition, I worked in a team to write a report on 
 
 
 
+# Qualitative Study on the Impact of Childhood Experiences on Student’s Eating Habits
 
-# Test Assignment 3
 ::: columns
 ::: {.column width="15%"}
+
+[View Project](Qualitative Study on the Impact of Childhood Experiences on Student’s Eating Habits.pdf)
+
 
 :::
 
@@ -131,6 +134,8 @@ In a class on Advanced Human Nutrition, I worked in a team to write a report on 
 
 ::: {.column width="80%"}
 
+In this project, we worked in teams to develop a research project, develop a qualitative research questionnaire, conduct qualitative interviews with participants, and analyze the data. Our group chose to do our project on the impact of childhood experiences on students’ eating habits. In this project, we conducted a literature review on this topic to identify any gaps in the literature. Then, we created our own qualitative interview questions. We then had to find and recruit participants for the study and conducted our own interviews. Lastly, we analyzed the transcripts from all of the participants and identified any themes that were present. This was the very first time that I had worked on a qualitative research project. Most of my experience has been in quantitative measurements and being able to get experience in a qualitative approach helped me better understand how this type of research is conducted. This is an important topic in the nutrition field as being able to understand both quantitative and qualitative topics is crucial. 
+
 :::
 :::
 
@@ -138,4 +143,92 @@ In a class on Advanced Human Nutrition, I worked in a team to write a report on 
 
 
 
+# College of Natural Sciences Poster Presentation
+::: columns
+::: {.column width="15%"}
+
+[View Project](College of Natural Sciences Poster Presentation.pdf)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="80%"}
+
+In this project, I created and presented a poster based on my original research during our Chico State’s College of Natural Sciences Poster Session where students and faculty were able to present their research. My poster topic was on the impact of CalFresh on college students’ dietary habits. We collected our own data with a sample size of around 2500 students. We used logistic regression models and log linear regression models to identify if there was an association between CalFresh use and college students’ dietary patterns. We found small positive associations between CalFresh Food use and students’ diets. I summarized all of the results in a poster and presented it at the poster session. This was my first professional poster session where I learned how to create and present a poster to a certain audience. Being able to present your work is crucial in the nutrition field and professional development where dietitians may often either have to explain complex findings to clients or present/explain any research that they have conducted. 
+
+:::
+:::
+
+
+
+
+# Development of College Student Basic Needs Website Using GitHub and R Studio
+::: columns
+::: {.column width="15%"}
+
+[View Project](https://chicocalfresh.github.io/BNS3_Statewide_Summary/)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="80%"}
+
+One of the projects that I have worked on extensively with the Center for Healthy Communities is the Basic Needs and Student Success Survey. This project involves surveying college students in California on a variety of factors such as the impact of basic needs resources, eating habits, physical activity patterns and mental health. We have recruited over 2000 student participants for the statewide study and have summarized all of the results on a website using GitHub and R studio. This was a very large project involving the effort of multiple people in developing the survey, collecting the data from 12 college campuses, cleaning all the data, and analyzing all of the data. I learned how to work in a large team and how to display graphs and tables into a readable format for the general audience. These are all important skills as being able to work in large teams is crucial in the health care field and being able to provide and explain complex information in simple terms is important to ensure that patients understand what you are talking about.
+
+:::
+:::
+
+
+
+
+# The Impact of CalFresh Food on College Students’ Fruit and Vegetable Intake
+
+
+::: columns
+::: {.column width="15%"}
+
+[View Project](The Impact of CalFresh Food on College Students’ Fruit and Vegetable Intake.pdf)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="80%"}
+
+In a graduate level course that I have taken on data analysis, we learned how to use R Studio for data analysis and data reporting. In this class, we learned how to write code to clean data as well as to analyze data with the appropriate statistical analysis methods. I decided to analyze if there is an association with CalFresh Food use and college students’ fruit and vegetable intake. I also conducted a literature review on this topic in order to choose proper covariates in the analysis. I then conducted the analysis and created appropriate plots to display the results in a visually appealing manner. In this experience I learned how to build effective models using R Studio. This is an important concept to understand where knowing how research is conducted and what data analysis methods should be implemented are crucial to be able to analyze the reliability of results from any research article. 
+
+:::
+:::
+
+
+
+
+
+# Food Project Development Project
+::: columns
+::: {.column width="15%"}
+
+[View Project](Food Project Development Project.pdf)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="80%"}
+
+In this project, we worked in teams to develop a food product that adds something new to the market. In this process, we had to analyze the markets, both physical locations and online food markets, to evaluate the current products being sold. We had to identify a food product that we wanted to make and certain aspects that are missing in that food product. Our group worked together and decided on making a vegan whole grain version of a Rice Krispy treat as we noticed that there are hardly any vegan options for this product and that there are no brown Rice Krispy bars. We then went into the iterative prototype development stages by starting with a recipe, modifying only one ingredient at a time, and performing sensory evaluations. We performed these evaluations for a few weeks until we decided on a final product. In this experience, I learned how product development and sensory evaluation analysis is conducted. Understanding consumer acceptance and sensory appeal are two important aspects to understand to promote healthy dietary eating habits. 
+
+
+:::
+:::
 
