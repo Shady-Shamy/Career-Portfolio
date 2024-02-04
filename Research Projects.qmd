@@ -45,4 +45,4 @@ One of the projects that I have worked on extensively with the Center for Health
 ::: {.column width="80%"}
 In this project, I worked in a team to create a small research project to assess an important gap in the literature. As a team, we created our own survey using Qualtrics including validated survey tools, distributed this survey, and used SPSS to analyze the data. My analysis focused on assessing the association between stress and appetite where I used a linear regression model with various covariates. I found a positive association between stress and appetite among college students. In other words, as college student's stress levels increased, there was an association with an increase in college student's appetites. This was the first research project that I had conducted, and I learned how to develop and organize a research project. This is relevant to the nutrition field as being able to understand research and research methodology is crucial to implement evidence-based practice.
 :::
-:::
+::: 
