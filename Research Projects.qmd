@@ -6,7 +6,7 @@ title: "Research Projects"
 
 ::: columns
 ::: {.column width="15%"}
-[View Project](Qualitative%20Study%20on%20the%20Impact%20of%20Childhood%20Experiences%20on%20Student’s%20Eating%20Habits.pdf)
+[View Project](Qualitative%20Study%20on%20Impact%20of%20Childhood%20Experiences%20on%20Student’s%20Eating%20Habits.pdf)
 :::
 
 ::: {.column width="5%"} 
